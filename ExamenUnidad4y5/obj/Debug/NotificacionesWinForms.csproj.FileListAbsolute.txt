@@ -1,0 +1,16 @@
+C:\Users\carlo\Desktop\prprp\obj\Debug\NotificacionesWinForms.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\prprp\obj\Debug\NotificacionesWinForms.Presentation.MainForm.resources
+C:\Users\carlo\Desktop\prprp\obj\Debug\NotificacionesWinForms.csproj.GenerateResource.cache
+C:\Users\carlo\Desktop\prprp\obj\Debug\NotificacionesWinForms.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\prprp\bin\Debug\NotificacionesWinForms.exe
+C:\Users\carlo\Desktop\prprp\bin\Debug\NotificacionesWinForms.pdb
+C:\Users\carlo\Desktop\prprp\obj\Debug\NotificacionesWinForms.exe
+C:\Users\carlo\Desktop\prprp\obj\Debug\NotificacionesWinForms.pdb
+C:\Users\carlo\Desktop\ExamenUnidad4y5\bin\Debug\NotificacionesWinForms.exe
+C:\Users\carlo\Desktop\ExamenUnidad4y5\bin\Debug\NotificacionesWinForms.pdb
+C:\Users\carlo\Desktop\ExamenUnidad4y5\obj\Debug\NotificacionesWinForms.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\ExamenUnidad4y5\obj\Debug\NotificacionesWinForms.Presentation.MainForm.resources
+C:\Users\carlo\Desktop\ExamenUnidad4y5\obj\Debug\NotificacionesWinForms.csproj.GenerateResource.cache
+C:\Users\carlo\Desktop\ExamenUnidad4y5\obj\Debug\NotificacionesWinForms.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\ExamenUnidad4y5\obj\Debug\NotificacionesWinForms.exe
+C:\Users\carlo\Desktop\ExamenUnidad4y5\obj\Debug\NotificacionesWinForms.pdb
